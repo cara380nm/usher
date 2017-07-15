@@ -1,6 +1,10 @@
 # James A Usher
 
-Considers himself above physical altercation, and would rather mastermind and direct than get his hands dirty. An intellectual and failed accademic, he sees new unexplored frontiers of artistic expression in death, torture, and suffering.
+Considers himself above physical altercation, and would rather mastermind and direct than get his hands dirty. An intellectual and failed academic, he sees new unexplored frontiers of artistic expression in death, torture, and suffering.
+
+A professor of literature and drama, he was sidelined by the faculty due to his increasingly bizarre interests and behavior. Eventually his tenure was revoked, and he now pursues artistic opportunities outside of University.
+
+His goal is to recruit and start an artistic movement, and he sees large dramatic "works" are the best way to do this. If, in the process, the faculty that refused to recognise his brilliance is damaged then so be it.
 
 ## Stats
 
@@ -26,7 +30,7 @@ Considers himself above physical altercation, and would rather mastermind and di
 * Background: Academic
 * Languages: Common, Elvish, Gnomish, Draconic
 * Proficiency: +3
-* XP:  6500
+* XP: 6500
 
 ## Equipment
 * Leather armour +1 AC 10lb
